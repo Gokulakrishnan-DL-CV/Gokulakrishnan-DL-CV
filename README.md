@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pretty much anything related to theoretical / applied ML
 - 📫 Feel free to write to me at: gokulakrishnan.candassamy@gmail.com
   
-- ⚡ Fun fact: ...
+  
 
 <!---
 Gokulakrishnan-DL-CV/Gokulakrishnan-DL-CV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
